@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/depanshumalik.github.io/react_calculator.git",
+  "homepage": "https://depanshumalik.github.io/react_calculator.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
