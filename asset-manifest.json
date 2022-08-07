@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/depanshumalik.github.io/react_calculator.git/static/css/main.04fe6806.css",
+    "main.js": "/depanshumalik.github.io/react_calculator.git/static/js/main.b4add671.js",
+    "index.html": "/depanshumalik.github.io/react_calculator.git/index.html",
+    "main.04fe6806.css.map": "/depanshumalik.github.io/react_calculator.git/static/css/main.04fe6806.css.map",
+    "main.b4add671.js.map": "/depanshumalik.github.io/react_calculator.git/static/js/main.b4add671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04fe6806.css",
+    "static/js/main.b4add671.js"
+  ]
+}
